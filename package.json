@@ -1,0 +1,16 @@
+{
+    "scripts": {
+        "deploy": "ts-node scripts/deploy.ts"
+    },
+    "dependencies": {
+        "@tsconfig/node21": "^21.0.3",
+        "dotenv": "^16.4.5",
+        "starknet": "^6.24.1",
+        "ts-node": "^10.9.2",
+        "tslib": "^2.8.1",
+        "typescript": "^5.5.4"
+    },
+    "devDependencies": {
+        "@types/node": "^22.14.1"
+    }
+}
