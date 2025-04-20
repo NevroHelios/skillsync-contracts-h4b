@@ -21,7 +21,7 @@ async function main() {
 
   try {
     ({ sierraCode, casmCode } = await getCompiledCode(
-      "contracts_JobPostNFT"  // Updated to use your contract name
+      "contracts_HireNFT"  // Updated to use your contract name
     ));
   } catch (error: any) {
     console.log("Failed to read contract files:", error.message);

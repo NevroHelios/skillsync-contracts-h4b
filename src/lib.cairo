@@ -1,1 +1,1 @@
-pub mod JobPostNFT; 
+pub mod HireNFT; 
